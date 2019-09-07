@@ -1,8 +1,8 @@
-package com.core.dao;
+package com.fun.core.dao;
 
 import java.util.Map;
 
-import com.core.model.UserModel;
+import com.fun.core.model.UserModel;
 
 public class UserDao
 {
