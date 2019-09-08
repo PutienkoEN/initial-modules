@@ -1,4 +1,4 @@
-package com.fun.core.models;
+package com.fun.models;
 
 public class UserModel
 {

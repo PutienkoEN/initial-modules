@@ -7,6 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="com.fun.core" exported="" />
     <orderEntry type="module" module-name="com.fun.models" />
   </component>
 </module>
