@@ -1,7 +1,7 @@
 package com.fun.facades.startup;
 
 import com.fun.core.dao.UserDao;
-import com.fun.core.model.UserModel;
+import com.fun.core.models.UserModel;
 
 public class Main
 {
