@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/com.fun.facades/com.fun.facades.iml" filepath="$PROJECT_DIR$/com.fun.facades/com.fun.facades.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.fun.models/com.fun.models.iml" filepath="$PROJECT_DIR$/com.fun.models/com.fun.models.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.fun.services/com.fun.services.iml" filepath="$PROJECT_DIR$/com.fun.services/com.fun.services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.fun.services.api/com.fun.services.api.iml" filepath="$PROJECT_DIR$/com.fun.services.api/com.fun.services.api.iml" />
     </modules>
   </component>
 </project>

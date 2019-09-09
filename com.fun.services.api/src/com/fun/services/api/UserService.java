@@ -1,4 +1,4 @@
-package com.fun.services;
+package com.fun.services.api;
 
 import com.fun.models.UserModel;
 

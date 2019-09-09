@@ -2,7 +2,7 @@ package com.fun.services.impl;
 
 import com.fun.core.dao.UserDao;
 import com.fun.models.UserModel;
-import com.fun.services.UserService;
+import com.fun.services.api.UserService;
 
 public class DefaultUserService implements UserService
 {

@@ -1,11 +1,11 @@
-import com.fun.services.UserService;
+import com.fun.services.api.UserService;
 import com.fun.services.impl.DefaultUserService;
 
 module com.fun.services {
-    exports com.fun.services;
+    exports com.fun.services.impl;
 
     requires com.fun.core;
-    requires transitive com.fun.models;
+    requires com.fun.services.api;
 
     provides UserService with DefaultUserService;
 }

@@ -4,7 +4,7 @@ import java.util.NoSuchElementException;
 import java.util.ServiceLoader;
 
 import com.fun.models.UserModel;
-import com.fun.services.UserService;
+import com.fun.services.api.UserService;
 
 public class Main
 {

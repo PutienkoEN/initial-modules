@@ -1,7 +1,7 @@
-import com.fun.services.UserService;
+import com.fun.services.api.UserService;
 
 module com.fun.facades {
-    requires com.fun.services;
+    requires com.fun.services.api;
 
     uses UserService;
 }

@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="com.fun.core" />
+    <orderEntry type="module" module-name="com.fun.services.api" />
   </component>
 </module>
