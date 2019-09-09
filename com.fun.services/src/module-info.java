@@ -1,5 +1,6 @@
 module com.fun.services {
-    exports com.fun.services.impl;
+    exports com.fun.services;
 
     requires com.fun.core;
+    requires transitive com.fun.models;
 }

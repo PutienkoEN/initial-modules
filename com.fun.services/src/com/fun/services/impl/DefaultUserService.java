@@ -2,8 +2,9 @@ package com.fun.services.impl;
 
 import com.fun.core.dao.UserDao;
 import com.fun.models.UserModel;
+import com.fun.services.UserService;
 
-public class DefaultUserService
+public class DefaultUserService implements UserService
 {
     public UserModel getUserById(long userId)
     {
