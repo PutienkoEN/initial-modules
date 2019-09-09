@@ -11,6 +11,6 @@ public class Main
 
         final UserModel user = userDao.findById(1L);
 
-        System.out.println(String.format("%s %s says hello!", user.getFirstName(), user.getLastName()));
+        System.out.println(String.format("%s says hello!", user.getFirstName()));
     }
 }
