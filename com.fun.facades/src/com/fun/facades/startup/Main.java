@@ -1,6 +1,6 @@
 package com.fun.facades.startup;
 
-import com.fun.core.models.UserModel;
+import com.fun.models.UserModel;
 import com.fun.services.impl.DefaultUserService;
 
 public class Main

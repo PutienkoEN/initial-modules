@@ -1,7 +1,7 @@
 package com.fun.services.impl;
 
 import com.fun.core.dao.UserDao;
-import com.fun.core.models.UserModel;
+import com.fun.models.UserModel;
 
 public class DefaultUserService
 {

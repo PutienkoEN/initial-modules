@@ -2,7 +2,7 @@ package com.fun.core.dao;
 
 import java.util.Map;
 
-import com.fun.core.models.UserModel;
+import com.fun.models.UserModel;
 
 public class UserDao
 {
