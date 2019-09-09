@@ -1,3 +1,3 @@
 module com.fun.facades {
-    requires com.fun.core;
+    requires com.fun.services;
 }

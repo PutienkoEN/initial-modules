@@ -1,15 +1,14 @@
 package com.fun.facades.startup;
 
-import com.fun.core.dao.UserDao;
 import com.fun.core.models.UserModel;
+import com.fun.services.impl.DefaultUserService;
 
 public class Main
 {
     public static void main(String[] args)
     {
-        final UserDao userDao = new UserDao();
-
-        final UserModel user = userDao.findById(1L);
+        final DefaultUserService userService = new DefaultUserService();
+        final UserModel user = userService.getUserById(1L);
 
         System.out.println(String.format("%s says hello!", user.getFirstName()));
     }
